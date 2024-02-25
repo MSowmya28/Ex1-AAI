@@ -186,7 +186,7 @@ plt.show()
 ![AAI ex1 5](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/3d327bee-e582-4c1f-80f5-8fcb4df58f5a)
 ![AAI ex1 2](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/18442a8d-e603-47f8-af6e-5ef2880bdea6)
 
-![AAI ex1 2](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/53191c5c-7899-455f-b04f-53d04e19df13)
+
 
 
 
