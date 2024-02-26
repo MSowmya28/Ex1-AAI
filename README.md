@@ -183,7 +183,6 @@ plt.show()
 ## Output:
 ![output](./![AAI ex1 3](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/d25f5d87-1965-4af3-bd50-99848dab26d5)
 ![AAI ex1 4](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/c673e573-9e7d-4e66-ae8b-0abf17bff072)
-![AAI ex1 2](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/18442a8d-e603-47f8-af6e-5ef2880bdea6)
 !![AAI ex1 6](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/1080a991-fe23-4531-9d2e-22d87d4f126f)
 ![AAI ex1 7](https://github.com/MSowmya28/Ex1-AAI/assets/94154791/6daa6d2c-dd8b-4f9a-8742-40f28ebb1063)
 
